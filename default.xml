@@ -5,7 +5,9 @@
 
     <project name="Cutty/binutils-uld" revision="binutils-2.22-fdpic-m-uld"            path="toolchain-src/binutils" />
     <project name="Cutty/gcc-uld"      revision="gcc-linaro-4.7-2013.05-cec-fdpic-uld" path="toolchain-src/gcc" />
+    <!--
     <project name="Cutty/gdb-uld"      revision="gdb-7.5.1-fdpic-uld"                  path="toolchain-src/gdb" />
+    -->
     <project name="Cutty/newlib-uld"   revision="newlib-snapshot-20160923-uld"         path="toolchain-src/newlib" />
     <project name="Cutty/qemu-uld"     revision="gnuarmeclipse-dev-uld"                path="toolchain-src/qemu" />
     <project name="Cutty/uld-fdpic"    revision="master"                               path="uld-fdpic" />
